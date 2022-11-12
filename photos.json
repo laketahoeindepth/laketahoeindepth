@@ -502,7 +502,12 @@
         ],
         "photos": {
             "Fall": [],
-            "Winter": [],
+            "Winter": [
+                {
+                    "filename": "https://images.squarespace-cdn.com/content/v1/58589e1859cc68db55777e45/1515218296762-81XRV6F0CC42QZVNOKDL/15741139_1308474762552130_833277316648445011_n-1.jpg",
+                    "credit": "Spencer Spellman"
+                }
+            ],
             "Summer": [
                 {
                     "filename": "https://laketahoeindepth.github.io/static/img/photos/RubiconBay_Summer_Flickr_RayBouknight.jpg",
