@@ -501,7 +501,12 @@
             -120.114411
         ],
         "photos": {
-            "Fall": [],
+            "Fall": [
+                {
+                    "filename": "https://mediaim.expedia.com/destination/2/30d6f77f0b2eaa9be177b7c74e8e1946.jpg",
+                    "credit": "Vrbo"
+                }
+            ],
             "Winter": [],
             "Summer": [
                 {
