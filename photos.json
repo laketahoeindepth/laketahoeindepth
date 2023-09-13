@@ -26,8 +26,8 @@
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Incline_Kayaking_NLTRA.jpg",
-                    "credit": "Chris Bartkowski"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Sand_Harbor_Summer_KarenHutton.jpg",
+                    "credit": "Karen Hutton, Wikimedia Commons"
                 }
             ]
         }
@@ -53,14 +53,14 @@
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Sand_Harbor_Summer_KarenHutton.jpg",
-                    "credit": "Karen Hutton, Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SandHarbor_Summer_Flickr.jpg",
+                    "credit": "Don Graham, Flickr"
                 }
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SandHarbor_Spring_Wikimedia.jpg",
-                    "credit": "Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SandHarbor_Spring_Claire.jpg",
+                    "credit": "Claire Mchenry"
                 }
             ]
         }
@@ -74,8 +74,8 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Marlette_Fall_Flickr.jpg",
-                    "credit": "J. Cook, Flickr"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MarletteLake_fall.JPG",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Winter": [
@@ -86,8 +86,8 @@
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Marlette_Summer.jpg",
-                    "credit": "Rick Cooper, WikiCommons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MarletteLake_Summer_Wikimedia.jpg",
+                    "credit": "Drew Kolb, Flickr"
                 }
             ],
             "Spring": [
@@ -107,14 +107,14 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SkunkHarbor_Toy.jpg",
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SkunkHarbor_Spring_Toy.jpg",
                     "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SKunkHarbor_Winter_TahoeClarity.jpg",
-                    "credit": "Tahoe Clarity"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SkunkHarbor_Winter.JPG",
+                    "credit": "Sierra State Parks Foundation"
                 }
             ],
             "Summer": [
@@ -125,8 +125,8 @@
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SkunkHarbor_Spring_Toy.jpg",
-                    "credit": "Alison Toy, UC Davis TERC"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SKunkHarbor_Winter_TahoeClarity.jpg",
+                    "credit": "Tahoe Clarity"
                 }
             ]
         }
@@ -152,8 +152,8 @@
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/CaveRock_Summer.jpg",
-                    "credit": "Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/CaveRock_summer_202309.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Spring": [
@@ -179,8 +179,8 @@
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/ZephyrCove_Winter_LTVA.jpg",
-                    "credit": "Lake Tahoe Visitor Authority"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/ZephyrCove_Winter_Flickr.jpg",
+                    "credit": "Ien Gilbert, Flickr"
                 }
             ],
             "Summer": [
@@ -218,8 +218,8 @@
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Heavenly_Summer_LTVA.jpg",
-                    "credit": "Lauren Lindley, LTVA"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Heavenly_Summer_Flickr.jpg",
+                    "credit": "Vanessa Vancour, Flickr"
                 }
             ],
             "Spring": [
@@ -245,8 +245,8 @@
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SLT_Winter_LTVA.jpg",
-                    "credit": "Lake Tahoe Visitor Authority"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SouthLake_Winter.jpeg",
+                    "credit": "Sierra State Parks Foundation"
                 }
             ],
             "Summer": [
@@ -311,8 +311,8 @@
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Richardson_Winter_LTVA.jpg",
-                    "credit": "Blanke Everett, Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/CampRichardson_Winter_Flickr.jpg",
+                    "credit": "Omar B\u00c3\u00a1rcena, Flickr"
                 }
             ],
             "Summer": [
@@ -356,8 +356,8 @@
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TaylorCreek_Spring_Flickr.jpg",
-                    "credit": "Flickr"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/FallenLeaf_Spring_LTVA.jpg",
+                    "credit": "Brad Scott, LTVA"
                 }
             ]
         }
@@ -377,8 +377,8 @@
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/FallenLeaf_Winter_Wiki.jpg",
-                    "credit": "Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/FallenLeaf_Winter_Flickr.jpg",
+                    "credit": "Rod Begbie, Flickr"
                 }
             ],
             "Summer": [
@@ -389,8 +389,8 @@
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/FallenLeaf_Spring_LTVA.jpg",
-                    "credit": "Brad Scott, LTVA"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/FallenLeaf_Winter_Wiki.jpg",
+                    "credit": "Wikimedia Commons"
                 }
             ]
         }
@@ -443,8 +443,8 @@
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Emeraldbay_winter_wikipedia.jpg",
-                    "credit": "Wikipedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/EmeraldBay_Winter.jpg",
+                    "credit": "Sierra State Parks Foundation"
                 }
             ],
             "Summer": [
@@ -470,14 +470,14 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/DLBliss_Fall_Wikimedia.jpg",
-                    "credit": "Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/DLBliss_Rubicontraillighthouse_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/DLBliss_Rubicontraillighthouse_Toy.jpg",
-                    "credit": "Alison Toy, UC Davis TERC"
+                    "filename": "",
+                    "credit": ""
                 }
             ],
             "Summer": [
@@ -503,8 +503,8 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/rubiconsummer.png",
-                    "credit": "Vrbo"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/RubiconBay_Fall.JPG",
+                    "credit": "Mike Bruno"
                 }
             ],
             "Winter": [],
@@ -564,26 +564,26 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_Fall_Flickr.jpg",
-                    "credit": "Flickr, Christian Arballo"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_fall.jpg",
+                    "credit": "Heather Segale, UC Davis TERC"
                 }
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_Winter_BlogSpotKaty.jpg",
-                    "credit": "BlogSpot"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_winter.png",
+                    "credit": "Heather Segale, UC Davis TERC"
                 }
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_summer.jpg",
-                    "credit": "Sierra State Parks Foundation"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_summer_202309.JPG",
+                    "credit": "Heather Segale, UC Davis TERC"
                 }
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_spring.jpg",
-                    "credit": "Flickr"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoma_spring_202309.JPG",
+                    "credit": "Heather Segale, UC Davis TERC"
                 }
             ]
         }
@@ -603,8 +603,8 @@
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/SugarPine_winter.jpg",
-                    "credit": "Sierra State Parks Foundation"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/skylandia_winter.jpg",
+                    "credit": "Heather Segale, UC Davis TERC"
                 }
             ],
             "Summer": [
@@ -630,8 +630,8 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Homewood_Fall.jpg",
-                    "credit": "Flickr, Gabi L."
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Homewood_Summer_Toy.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Winter": [
@@ -642,14 +642,14 @@
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Homewood_Summer_Toy.jpg",
-                    "credit": "Alison Toy, UC Davis TERC"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Homewood_Summer.jpg",
+                    "credit": "Sierra State Parks Foundation"
                 }
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Homewood_Spring.jpg",
-                    "credit": "Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/homewood_spring_202309.jpg",
+                    "credit": "Heather Segale, UC Davis TERC"
                 }
             ]
         }
@@ -694,7 +694,12 @@
             -120.161487
         ],
         "photos": {
-            "Fall": [],
+            "Fall": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/hurricaneBay_Fall_alison.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
             "Winter": [
                 {
                     "filename": "https://laketahoeindepth.github.io/static/img/photos/HurricanBay_Winter2.jpg",
@@ -782,7 +787,7 @@
         }
     },
     {
-        "location": "Squaw Valley",
+        "location": "Olympic Valley",
         "coords": [
             39.195854,
             -120.235207
@@ -797,19 +802,19 @@
             "Winter": [
                 {
                     "filename": "https://laketahoeindepth.github.io/static/img/photos/Squaw_Winter_Flickr.jpg",
-                    "credit": "Flickr, Squaw Valley Lodge"
+                    "credit": "Flickr, Olympic Valley Lodge"
                 }
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Squaw_Summer_Flickr.jpg",
-                    "credit": "Flickr, Squaw Valley Lodge"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/olympicvalley_summer.jpg",
+                    "credit": "Heather Segale, UC Davis TERC"
                 }
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Squaw_Spring_McMahon.jpg",
-                    "credit": "Nick McMahon"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/OlympicValley_Spring_Claire.jpg",
+                    "credit": "Claire McHenry"
                 }
             ]
         }
@@ -829,20 +834,86 @@
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeCity_Winter_Niobe Burden.jpg",
-                    "credit": "Niobe Burden"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/tahoecity_winter_alison.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeCity_Summer_RyanSalmPhotography.jpg",
-                    "credit": "Ryan Salm Photography"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeCity_summer.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Spring": [
                 {
                     "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeCity_Spring_McMahon.jpg",
                     "credit": "Nick McMahon"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Lake Forest",
+        "coords": [
+            39.18087274898121,
+            -120.11490960955066
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/LakeForest_Fall.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/LakeForest_Winter.jpg",
+                    "credit": "Nich McMahon"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/LakeForest_Summer.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/LakeForest_Spring.jpg",
+                    "credit": "Nick McMahon"
+                }
+            ]
+        }
+    },
+    {
+        "location": "Skylandia",
+        "coords": [
+            39.183542,
+            -120.109624
+        ],
+        "photos": {
+            "Fall": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/skylandia_fall.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Winter": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/skylandia_winter_202309.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Summer": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/skylandia_summer.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
+                }
+            ],
+            "Spring": [
+                {
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/skylandia_spring.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ]
         }
@@ -856,26 +927,26 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Skylandia_Sunset_Toy.jpg",
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/DollarPoint_fall.jpg",
                     "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Skylandia_Winter_McMahon.jpg",
-                    "credit": "Nick McMahon"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/DollarPoint_winter.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Skylandia_Summer_Toy.jpg",
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/DollarPoint_summer.jpg",
                     "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Skylandia_Spring_McMahon.jpg",
-                    "credit": "Nick McMahon"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/DollarPoint_spring.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ]
         }
@@ -922,26 +993,26 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeVista_MoonDunes_Fall_Toy.jpg",
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/tahoevista_fall.jpg",
                     "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeVista_Winter2_Flickr.jpg",
-                    "credit": "Flickr, Mike Vondran"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/tahoevista_winter.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeVista_Summer_pix.jpg",
-                    "credit": "Pixabay"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeVista_summer.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/TahoeVista_Spring_McMahon.jpg",
-                    "credit": "Nick McMahon"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/Tahoevista_spring.jpg",
+                    "credit": "Alison Toy, UC Davis TERC"
                 }
             ]
         }
@@ -967,8 +1038,8 @@
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/KingsBeach_Summer.jpg",
-                    "credit": "Wikimedia Commons"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/KingsBeach_Summer_Claire.jpg",
+                    "credit": "Claire McHenry"
                 }
             ],
             "Spring": [
@@ -1021,25 +1092,25 @@
         "photos": {
             "Fall": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MtRose_Winter2_NLTRA.jpg",
-                    "credit": "North Lake Tahoe Resort Association"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/mountrose_fall_helen.JPG",
+                    "credit": "Helen Fillmore, UC Davis TERC"
                 }
             ],
             "Winter": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MtRose_Winter_NLTRA.jpg",
-                    "credit": "North Lake Tahoe Resort Association"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/mountrose_winter_wyatt.png",
+                    "credit": "Wyatt Grognet"
                 }
             ],
             "Summer": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MtRose_Summer_Trover.jpg",
-                    "credit": "Trover"
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MountRose_Summer_wikipediacommons.jpg",
+                    "credit": "Wikimedia Commons"
                 }
             ],
             "Spring": [
                 {
-                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MtRose_Spring_WikimediaCommons.jpg",
+                    "filename": "https://laketahoeindepth.github.io/static/img/photos/MountRose_Spring_wikipediacommons.jpg",
                     "credit": "Wikimedia Commons"
                 }
             ]
